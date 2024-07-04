@@ -9,11 +9,11 @@ In this project, first steps have been taken towards addressing this problem by 
 ## Project Steps
 The high level steps of the project include:
 
-* Create a CNN to Classify Landmarks (from Scratch) - After visualizing the dataset, process it for training, and then build a convolutional neural network from scratch to classify the landmarks.
+- Create a CNN to Classify Landmarks (from Scratch) - After visualizing the dataset, process it for training, and then build a convolutional neural network from scratch to classify the landmarks.
 
-* Create a CNN to Classify Landmarks (using Transfer Learning) - Investigated different pre-trained models and decided one to use for this classification task.
+- Create a CNN to Classify Landmarks (using Transfer Learning) - Investigated different pre-trained models and decided one to use for this classification task.
   
-* Write my own Landmark Prediction Algorithm - Used best model to create a simple interface for others to be able to use model to find the most likely landmarks depicted in an image.
+- Write my own Landmark Prediction Algorithm - Used best model to create a simple interface for others to be able to use model to find the most likely landmarks depicted in an image.
 
 ## Review
 To explore more about CNN architectures:
